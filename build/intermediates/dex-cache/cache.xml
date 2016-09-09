@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_04c74965be1c2112f69a231dc5cbb796ac6de48e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_d4dff1d602af6695d3a415db6997bfec5ba287fd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="bd09a15ec7fc107bb38247fcfe71300b2b14128f">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de438ebffb5849bd81354a1c0ec22b4cb56fcab5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_82fa48b1766b6de3cc517b198b9df7b354b82797/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_f5e3550a90a56cfbd9eac43ee2667ac30ed0669d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_e330679c634dcbf413eecbb45509f4d8b60f5c2f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_464f250b198b51147dd945008f14a4b271ab3812/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_c8b23e0a4cbb73d8d1832c331b41395628a28de5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_897785d338ff959178dbb8fa5ce2ce6cce9e1a82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fe071b94073f8499898ea6e96e2b2c253d832b93/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_83dba4f6d14a926e2d717b448f42a0313b39d0eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_7e2334f7c10115a20c4065e666cbe0e3a452fe4e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_5f66681fb9f05d3f58ca5873ef26666503d57b6a/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_549c3956a53d8362ee9c603929138a8578da599a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_490198e186fcfe99626d21a0496da364e7948a70/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_3a811993c7baa0bea4aaf84a939027f05fb65a35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3a41ea21e8e688682b7ad8571402a919b282b486">
+        <dex dex="/Users/sm888501/AndroidStudioProjects/ToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1439bd52ff4a53da92f3afdac764d76325c5e26/classes.dex" />
+    </item>
+
+</items>
