@@ -1,2 +1,4 @@
 # codepath
-todo app
+Todo app
+
+Add and delete items by long press
